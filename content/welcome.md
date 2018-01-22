@@ -10,4 +10,7 @@ draft: true
 ---
 
 This is first article created by Hugo.
+
 update +1
+
+update +2
