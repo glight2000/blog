@@ -1,0 +1,8 @@
+baseURL = "http://meemle.com.cn/"
+languageCode = "zh-cn"
+title = "OmiG_G"
+theme = "hyde"
+
+[params]
+    description = "Dance in Dark"
+    themeColor = "theme-base-02" # for hyde theme
