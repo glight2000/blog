@@ -1,11 +1,6 @@
 ---
-title: "Welcome"
-Categories = ["Development", "GoLang"]
-Description = ""
-Tags = ["Development", "golang"]
-date = "2018-01-22T18:21:42+08:00"
-menu = "main"
-title = "Hi Hugo."
+title: "Hi Hugo."
+date: 2018-01-22T18:26:01+08:00
 draft: true
 ---
 
